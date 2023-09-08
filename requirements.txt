@@ -3,12 +3,10 @@ plotly-express
 numpy
 pandas
 scikit-learn
-opencv-python
+opencv-contrib-python
 scikit-learn
 joblib
 scipy
-os-sys
 Pillow
 matplotlib
-DateTime
 mpl-toolkits
