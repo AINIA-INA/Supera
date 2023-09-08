@@ -6,3 +6,8 @@ scikit-learn
 opencv-python
 scikit-learn
 joblib
+scipy
+os-sys
+Pillow
+matplotlib
+DateTime
